@@ -1,2 +1,2 @@
 # docker-pokemonsay
-WIP dockerize https://github.com/possatti/pokemonsay
+Dockerize https://github.com/possatti/pokemonsay
