@@ -5,7 +5,7 @@
 Dockerized https://github.com/possatti/pokemonsay. Kudos to @possatti.
 
 ```
-docker run -ti xaviervia/pokemonsay 'Hello World!'
+docker run --rm -it xaviervia/pokemonsay 'Hello World!'
 ```
 
 ## Notice
